@@ -1,3 +1,3 @@
 test_that("multiplication works", {
-  expect_equal(2 * 2, 4)
+  expect_equal(filter2(iris, 20:40), iris[20:40,])
 })

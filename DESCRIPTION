@@ -19,3 +19,7 @@ Suggests:
     spelling,
     testthat
 Language: en-US
+LinkingTo: 
+    Rcpp
+Imports: 
+    Rcpp
